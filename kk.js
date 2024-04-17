@@ -1,5 +1,5 @@
 document.getElementById("btn-no").addEventListener("click", function () {
-  document.location = "/prank.html";
+  document.location = "./prank.html";
 });
 
 const msovr = document.getElementById("btn-yes");
