@@ -1,0 +1,40 @@
+body {
+  background-color: black;
+  font-family: "Arial", serif;
+  position: relative;
+}
+h1 {
+  text-align: center;
+  color: aquamarine;
+}
+h3 {
+  text-align: center;
+  max-width: 600px;
+  color: azure;
+  margin: 0 auto;
+}
+img{
+  position: absolute;
+  right: 0;
+}
+#btn-no,
+#btn-yes {
+  width: 80px;
+  height: 38px;
+  border-radius: 15%;
+  font-size: 200%;
+  border: 0;
+  border-color: azure;
+  color: azure;
+}
+#btn-no {
+  background-color: red;
+  margin-left: 25px;
+  margin-top: 50px;
+}
+#btn-yes {
+  background-color: green;
+  position: absolute;
+  margin-top: 50px;
+  margin-left: 25px;
+}
